@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 ReturnBot — E-commerce Return Policy RAG Chatbot
 
 > Ask any question about return & refund policies across Indian e-commerce platforms and get instant, cited answers powered by AI.
@@ -91,4 +91,4 @@ Rithika — Fresher passionate about AI/ML and RAG systems.
 =======
 # returnbot
 A RAG-based chatbot that answers questions about e-commerce return &amp; refund policies from Flipkart, Amazon, Myntra, Meesho and Nykaa using LangChain, ChromaDB and Ollama.
->>>>>>> ef802a044e9a851a6e52f4d754edf9bd2820047b
+
