@@ -1,0 +1,510 @@
+Returns, Exchange and Refunds Policy
+
+ 
+
+Returns, Refunds and Exchange is the scheme provided by various sellers listed on ‘Meesho’s’ website available at www.meesho.com or the mobile application under the brand name “Meesho” (collectively “Platform”), in relation to specific products.  Returns, refund and exchange policy gives you an option to return, or  exchange items purchased on the Platform, within the specified return/exchange period, as detailed on the product details page, subject to applicable terms and conditions set out under this Policy and/or such other policies as may be applicable from time to time. 
+
+Returns
+
+At the time of purchasing any products that are listed on the Platform, You will be visiting the product description page which will set out whether the product is returnable or not. The products that are explicitly identified as ‘not returnable’ on the product detail page cannot be returned while the products which are identified as ‘returnable’ are eligible for return with the conditions as specified in the product description page and this policy. The Platform at its discretion may not accept returns of any Product for reasons, including but not limited to, the products being sold under any offer, promotion or discount, if the product being returned is not in good condition, etc. 
+
+ 
+
+Meesho shall not be liable or accountable for accepting returns in the circumstances where You have: (a) not followed the process of initiating returns as provided in this Policy and in other communications to You, (b) returned a shipments with wrong product, extra product or missing products,, and (c) acted in a bad faith or fraudulent manner. Further, in the event of abuse of the Platform or the Platform policies which include excessive returns, high claim percentage or refusal to accept shipments, indication of any fraudulent  or suspicious activity or behavior on our Platform or association with any such activity or behavior, including where your user metrics such as your claim rate, return rate etc., are higher than the average rate of the other users on our platform (“Abuse of Platform Policies”); Meesho shall at its sole discretion not accept any return initiated by You or compensate you for wrong/damaged/missing products. 
+
+ 
+
+With respect to products that are identified as ‘non-returnable’ on the product display page, you will be allowed to exchange such products subject to applicable policies of the platform. In the event that a product for which only exchange is available as per the product description page, the user can opt for a ‘call me back’ option and the returns will be enabled for that user if it is found that the return has been initiated for genuine reasons, at the sole discretion of Meesho.
+
+ 
+
+
+Return Options
+
+
+ 
+
+Certain products on Meesho will have two return options available: (a) wrong/defective items return option, and (b) all return option. If a product does not have the aforementioned options for return, the return option available for the Product in the product description page will be applicable. All return options are subject to the product being identified as returnable in the product description page. 
+
+ 
+
+What is the ‘Only wrong/defect item return option’ and ‘all issue easy return’ options?
+
+ 
+
+Subject to applicable policies, Meesho provides an ‘all return option’ to its users, wherein users will be able to enjoy certain privileges on a specific product in lieu of payment of a premium on the product cost. Features of an all return option are as follows:  
+
+
+the user will be allowed to return an already purchased product, if the said product is eligible for returns. 
+
+
+
+The user will be eligible to return the specific product for reasons other than the product being wrong or damaged.
+
+
+
+The all return option is available only for specific products and may not be available for all products which are listed on the Platform.
+
+
+ 
+
+If You are not availing an all return option, you may avail the ‘Wrong/Defect item return option’. If you opt for the Wrong/Defect item return option, then subject to applicable policies:
+
+ 
+
+
+The user will be allowed to return an already purchased product, if the said product is eligible for return/exchange.
+
+
+
+The user will only be eligible to return the product if the product received is defective, damaged, wrong or incomplete due to the seller's fault.
+
+
+ 
+
+
+Cost of Return
+
+
+ 
+
+If you have opted for an all return option and are eligible to return the product as per applicable policies, you may return the product free of cost no matter what the reason. 
+
+ 
+
+If you have opted for the Wrong/Defect return option and are eligible to return the product as per applicable policies, you may return the product free of cost if fault with the product lies with the supplier. The following are the faults that lie with the supplier:
+
+ 
+
+Return Reason Category
+
+Actual Return Reason
+
+Wrong Product
+
+Wrong Size Delivered
+
+Same product in different colour
+
+Completely different product from the product shown
+
+Defective Product
+
+Product is dirty or with stains
+
+Product is broken
+
+Product is torn
+
+Received incomplete product
+
+Part of the product is missing
+
+Less quantity than ordered
+
+ 
+
+The following aspects in relation to the product will need be verified before arranging return free of cost:
+
+ 
+
+
+whether the  quality of the product returned is merchantable; and
+
+
+
+whether the product had degraded in performance, if applicable.
+
+
+ 
+
+Exchange
+
+ 
+
+You can check whether the product is exchangeable or not after the product has been delivered in the order details page in the ‘My Orders’ section. If the product can be exchanged, You may exchange the product, subject to applicable policies. 
+
+ 
+
+Eligibility of a product for exchange is subject to various aspects including but not limited to stock availability, address being serviceable, seller rating, catalog quality metric, and such other aspects at the sole discretion of the Platform. Further, the eligibility of the product to be exchanged will depend upon the reason for exchange provided by the customer. The product will not be eligible for exchange  if the reason for exchange is either of: (a) the customer is not interested in the product, or (b) quality issues with the product.  
+
+Further, Meesho will not be accepting any exchanges if: (a) the product which is being exchanged is not the same product that was purchased originally, (b)  you have not followed the process of initiating returns as provided in this Policy and in other communications to You, (c) in a bad faith or fraudulent manner. Further, in the event of any Abuse of Platform Policies, Meesho shall at its sole discretion not fulfill any exchange initiated by You.
+
+ 
+
+The exchange request must be raised within the return window period specified on the product detail page.
+
+ 
+
+In case of exchange, if the cost of the new product is more than the original product delivered, you will have to pay the difference in amount and if the cost of the new product is less than the original product delivered, the difference in amount will be refunded.  In the event that Meesho or the seller is not able to meet the exchange requested by You due to non availability of the product, the exchange request will be converted to a return request by Meesho, at the sole discretion of Meesho and such a return will be subject to the terms and conditions of this policy.
+
+ 
+
+Further, once a product has been exchanged, there cannot be any more exchanges on the same order.
+
+ 
+
+How to return a Product?
+
+ 
+
+You can return the products purchased on the Platform within the specified return  period provided on the product description page. To return a product, please follow the steps mentioned below:
+
+ 
+
+
+If a product is eligible for return, the user will be able to initiate the return request under the ‘My Orders’ section. 
+
+
+
+Create a ‘return request’ under the ‘My Orders’ section on the Platform and follow the instructions provided on the Platform. 
+
+
+
+After the ‘return request’ has been raised, Return ID will be generated by Meesho.    
+
+
+
+In case you purchase multiple products in a single order, return requests for individual items can also be raised.
+
+
+
+Once a return request is raised, Meesho shall analyse the request and accordingly process the request internally. All return claims shall be subject to Meesho’s discretion and applicable policies. 
+
+
+
+If you have scheduled a pick – up for returning the product, please keep the items ready to be picked up by the delivery partners. 
+
+
+
+Please keep the product in the original manufacturer’s packaging, all tags should be intact, the product should be unused and warranty card, if any, should also be placed with the product.
+
+
+
+At the time of pick up, our delivery partner may conduct a quality check on the product to ensure the product meets the criteria specified under return guidelines. If the product fails such a quality check, the product shall not be returned, and no refund shall be made against such product.  .   
+
+
+
+Please note that the product will be picked up from the same address where delivery was made. 
+
+
+
+Further, on receipt of returned product, the product shall undergo a quality check. If the product returned is in an acceptable condition, as determined by Meesho at its sole discretion, the refund shall be initiated, otherwise the product will be re-shipped to you, at your cost, and no refund shall be initiated. 
+
+
+     
+
+ 
+
+How to exchange a Product? 
+
+You can exchange the products purchased on the Platform within the specified exchange period, unless the ‘My Orders’ page specifies that the product is not exchangeable and subject to applicable policies. It is hereby clarified that exchange in this policy means exchange with the same product and not with a different product. To exchange a product, please follow the steps mentioned below:
+
+ 
+
+
+If a product is eligible for exchange, the option shall be available against the product under ‘My Orders’ section. 
+
+
+
+Create a ‘exchange request’ under the ‘My Orders’ section on the Platform and follow the screens that are prompted. 
+
+
+
+In case you purchase multiple products in a single order, exchange requests for individual items can also be raised. 
+
+
+
+After an exchange request has been raised, Exchange Id will be generated.
+
+
+
+Keep the items ready for exchange pick up. Please keep the product in the original manufacturer’s packaging, all tags should be intact, product should be unused and warranty card, if any, should also be placed with the product.
+
+
+
+Once the original product is handed over to the delivery agent, the exchanged product will be delivered to you separately or by the same agent at the time of pick up, at the sole discretion of Meesho.
+
+
+
+At the time of pick up, the delivery agent may conduct a quality check on the product to ensure the product meets the criteria specified under return guidelines. If the product fails such a quality check, the product shall not be exchanged.
+
+
+
+The product will be picked up from the same address where delivery was made. 
+
+
+ 
+
+ 
+
+Return & Replacement Policy for Smartphones
+
+ 
+
+
+Device Issues (Manufacturing / Technical)
+If the smartphone has any manufacturing defect or technical issue, it will be serviced and resolved directly by the respective brand at its authorized service centre, strictly in accordance with the brand’s warranty and service policies.
+
+
+ 
+
+
+Dead on Arrival (DOA)
+ In case the smartphone is found to be non-functional/ dead on arrival:
+
+
+
+The user must obtain a DOA (Dead on Arrival) certificate from the brand’s authorized service centre.
+
+
+
+The user must also share an uninterrupted, uncut and unambiguous unboxing video of the product with Meesho.
+
+
+
+Only upon receiving both the DOA certificate and the unboxing video, in the manner as stated above, Meesho will process a replacement request in accordance with its policies.
+
+
+
+
+Physical Damage on Delivery
+ If the smartphone is received with any physical damage:
+
+
+
+The user will be eligible only for a replacement of the product.
+
+
+
+A clear and unambiguous unboxing video must be provided, showing the damage at the time of opening the package.
+
+
+
+Without such evidence, the replacement request cannot be processed.
+
+
+ 
+
+
+Supplementary Conditions
+
+
+
+All replacements are subject to the respective brand’s and Meesho’s verification processes and policies.
+
+
+
+All replacement requests shall be raised within 7 days of receiving the delivery of the order in accordance with this Policy.
+
+
+
+All other terms and conditions of the Policy, to the extent not inconsistent with these specific terms, shall continue to apply.
+
+
+
+Users shall retain original packaging, invoice, and accessories until the issue is resolved.
+
+
+
+Smartphone orders are not eligible for return and refund under any circumstances and will only be replaced strictly in accordance with this Policy.
+
+
+ 
+
+ 
+
+Common Guidelines for Return and Exchange
+
+ 
+
+Prior to initiating a return or exchange request on the Platform, You shall ensure that, the product which is either being returned or exchanged: 
+
+
+must be in its original condition with all the packaging including brand/manufacturer’s box/packaging, tags, warranty cards and other accessories intact;
+
+
+
+must not be damaged in your possession;
+
+
+
+must be unused, unwashed, unsoiled, without any stains and with non-tampered quality check seals/return tags/warranty seals (wherever applicable).
+
+
+
+must not be used or altered;
+
+
+
+must be the same product that was delivered to you; and
+
+
+
+must be returned/exchanged within the return window specified against a product on the product detail page.
+
+
+    
+
+ 
+
+Further, IMEI/ name/ image/ brand/ serial number/ article number/ bar code of the returned/exchanged product should match the records of Meesho. Any additional conditions provided in the product details against each product shall be applicable as well.
+
+ 
+
+Further:
+
+
+Your address and the item that you wish to return/exchange must be eligible for return/exchange as provided in this policy.
+
+
+
+If the return is not eligible for pickup, a return option will not be available
+
+
+
+If you have requested for a return, you will be provided with a refund once the product returned has been received by the seller. If you have requested for an exchange, you will be provided with the exchange produced. 
+
+
+
+If you intend to return/exchange an electronic device that stores any personal information, you must remove/delete all such personal information from the device prior to returning. Meesho shall not be liable in any manner whatsoever for any use of such information. Such electronic device should be formatted, and screen lock should be disabled. 
+
+
+
+No return, exchange shall be accepted if warranty card, if any, is missing while return, or  exchange of product.
+
+
+
+The products available on the Platform are usually returnable/exchangeable within 7 days of delivery. However, specific details in relation to each product are mentioned in the product description. Further, a product which has been returned/exchanged cannot be returned/exchanged again.
+
+
+ 
+
+Refund
+
+ 
+
+How will I get my refund?
+
+ 
+
+
+Refund will be credited to the same source of payment from which payment was received, after deducting the cost of return (where applicable), once the return product is received.  
+
+
+
+If you desire to return a product, then you shall be entitled to receive only the amount actually paid by you for the purchase of the product, subject to applicable deductions.       
+
+
+
+In the event any product is returned, then any offer, promotion, discount applied to such product shall be forfeited.
+
+
+
+If you have made the payment through your bank account, the refund will be credited to the same bank account from which payment was received after deducting the cost of return (where applicable), once the return is received.
+
+
+
+If you have made the payment as cash on delivery, you will be given an option to either receive the refund in your bank account or as Meesho Balance. If you have chosen to receive the refund in your bank account, you will be required to provide us with your bank account details and the refund amount will be credited to the bank account details provided by you. Meesho shall not be liable to you in case incorrect bank account details have been provided by you.
+
+
+
+In case of any discrepancies regarding receipt of refund amount, Meesho may request for additional information such as bank statement or any other relevant document.
+
+
+ 
+
+When will I get my refund?
+
+ 
+
+Following are the processing timelines after the product is received by us or when the seller notifies us of the receipt of the products.
+
+ 
+
+Refund Method
+
+Refund Time Frame
+
+Credit Card, Debit Card, Net Banking, UPI Linked Bank Account
+
+3-7 Business Days
+
+Cash on Delivery (Refund to Bank Account in the event that the conditions for Instant Refund mentioned below are not met)
+
+3-7 Business Days after updating the bank account details
+
+Meesho Balance
+
+Maximum up to 2 Business Days
+
+ 
+
+Instant Refund:
+
+ 
+
+Meesho offers instant refund whereby the refund will be triggered within 4 (four) hours of the product being picked up and marked by the delivery partners as successfully picked up (“Instant Refund”). The refund will be reflected to the bank account within 3 - 7 Business Days or as Meesho Balance within a maximum of 2 Business Days. The following are the conditions which are required to be met for the return to be eligible for an Instant Refund:
+
+ 
+
+
+Instant Refunds are only available for cash on delivery orders.
+
+
+
+The product which is being returned should have successfully undergone a quality check by the delivery partners and should have been marked as successfully picked up for return on the systems of Meesho. Meesho reserves the right to not accept the return in the event the product is damaged, incorrect or for such other reasons as Meesho deems fit. 
+
+
+
+In the event where the delivery partner is unable to mark the product as successfully picked up in the systems of Meesho, as a result of technical issues, Meesho shall not be liable to process the Instant Refund. 
+
+
+
+Further, Meesho shall not be held liable for not processing the Instant Refund for reasons attributable to the delivery partner, which include instances as, product being marked canceled instead of picked up, tracking details not available for the product picked up, etc. In such instances, Meesho may not be able to process the Instant Refund.
+
+
+
+Instant Refunds will not be processed in case of instances whereby the systems of Meesho cannot generate a refund without manual intervention, i.e., it is not a system generated refund. Manual intervention is typically required in the following instances: 
+
+
+
+In the event the refund request is raised for a missing product or a product that was not delivered to the customer. 
+
+
+
+In the event that  the delivery partner is unable to update accurate details in the systems of Meesho regarding the product that has been picked up including tracking details for the product. 
+
+
+
+In the event the customer has opted for self shipment, for any reason, and not routed the return via the delivery agents assigned by Meesho. In the event that the customer has mistakenly returned additional products along with the products for which the return was initiated. 
+
+
+
+
+Instant Refunds are not available for customers who have purchased products from Resellers on the Meesho platform.  Meesho may not be able to process Instant Refunds in the event of unavailability of services due to any reason including technical issues and downtime,  which may include: (a) downtime in the bank servers which will hamper Meesho’s ability to process the refunds, (b) downtime in the Meesho platform or communication channel which disrupts the ability of the delivery partner to update the status of the pick up, or (c) other technical reasons which disrupts the process of return and refunds, as may be applicable.
+
+
+
+Instant Refunds will not be processed if the bank details or UPI ID is not provided or is inaccurate. 
+
+
+ 
+
+Meesho reserves the right in its sole discretion to refuse Instant Refund for reasons including but not limited to: (i) any fraud or malpractice committed by the user and detected by Meesho at any point of time, (ii) for any other reason that Meesho may deem fit. 
+
+ 
+
+Miscellaneous 
+
+ 
+
+Please note that all the customer claims and requests for return/refund shall be subject to  Meesho’s satisfaction. 
+
+ 
+
+Meesho reserves the right, at its sole discretion, to amend, change, modify, add or remove any portion of this policy at any time without any prior written notice to you. It is your responsibility to review this policy periodically for any updates/ changes.
+
+ 
+
+For any further queries regarding return, exchange or refund, please reach out to customer support at legalsupport@meesho.com.
